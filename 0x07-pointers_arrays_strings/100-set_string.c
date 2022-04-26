@@ -12,16 +12,16 @@ void set_string(char **s, char *to)
 *s = to;
 }
 
+
 100-set_string.c
 
 #include "holberton.h"
 
 /**
   * set_string - Sets the value of a pointer to char
-  * @s: the value to modify
-  * @to: the value to assign
-  *
-  * Return: Nothing.
+  * @s: is to be copied
+  * @to: string
+  * Return: void
   */
 void set_string(char **s, char *to)
 {
