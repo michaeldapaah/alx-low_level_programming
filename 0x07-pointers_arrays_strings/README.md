@@ -1,0 +1,1 @@
+this is the addition for pointers arrays and strings
