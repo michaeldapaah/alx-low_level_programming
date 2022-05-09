@@ -21,7 +21,7 @@ if (a == NULL)
 return (NULL);
 
 while (min <= max)
-{ 
+{
 a[i] = min;
 i++;
 min++;
